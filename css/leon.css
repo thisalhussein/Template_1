@@ -76,6 +76,7 @@ body{
 .header .link .icon span:nth-child(2){
 
     width: 60%;
+    transition: 0.3s;
 }
 .header .link .icon span:last-child{
     
