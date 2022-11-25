@@ -167,6 +167,7 @@ width: 100%;
    grid-gap: 20px;
 }
 .features .feat {
-
+    padding: 20px;
+    text-align: center;
 }
    
