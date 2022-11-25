@@ -107,6 +107,9 @@ width: 100%;
     right: 5px;
     top: -20px;
 }
+.header .link:hover ul {
+    
+}
 .header .link ul li a {
     display: block;
     padding: 15px;
