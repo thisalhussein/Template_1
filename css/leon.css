@@ -8,3 +8,10 @@ body{
     font-family: 'Work Sans', sans-serif;
 }
 /* End Clobal Rules */
+.parent{
+    background-color: #eee;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
