@@ -115,6 +115,6 @@ width: 100%;
     transition: 0.3s;
 }
 .header .link ul li a:hover{
-    
+   padding-left: 25px; 
 }
 /* End Header */
