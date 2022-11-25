@@ -72,6 +72,7 @@ body{
 }
 .header .link .icon span:nth-child(2){
     height: 3px;
+    width: 60%;
 }
 .header .link .icon span:last-child{
     height: 5px;
