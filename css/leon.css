@@ -86,9 +86,10 @@ width: 100%;
     width: 100%;
 }
 .header .link ul{
+    list-style: none;
 
 }
 .header .link ul::before{
-    
+
 }
 /* End Header */
