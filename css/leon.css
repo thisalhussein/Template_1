@@ -57,6 +57,9 @@ body{
    position: relative; 
 }
 .header .link .icon{
-    
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+
 }
 /* End Header */
