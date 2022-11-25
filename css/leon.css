@@ -94,11 +94,11 @@ width: 100%;
     right: 0;
     min-width: 200px;
     top: calc(100% + 15px);
-    display: none;
+    /* display: none; */
     
 
 }
 .header .link ul::before{
-
+    content: "";
 }
 /* End Header */
