@@ -162,6 +162,6 @@ width: 100%;
     background-color: #f6f6f6;
 }
 .features .container {
-    
+   display: grid; 
 }
    
