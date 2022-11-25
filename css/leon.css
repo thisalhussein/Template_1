@@ -110,5 +110,6 @@ width: 100%;
 .header .link ul li a {
     display: block;
     padding: 15px;
+    text-decoration: none;
 }
 /* End Header */
