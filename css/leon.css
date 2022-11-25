@@ -102,7 +102,7 @@ width: 100%;
     content: "";
     border-width: 10px;
     border-style: solid;
-    border-color: red green blue black ;
+    border-color: transparent transparent #f6f6f6 transparent ;
     position: absolute;
     right: 5px;
     top: -20px
