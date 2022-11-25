@@ -40,5 +40,7 @@ body{
 }
 /*End Global Rules */
 /* Start Header */
-.
+.header{
+   padding: 20px; 
+}
 /* End Header */
