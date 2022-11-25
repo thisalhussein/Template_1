@@ -124,3 +124,9 @@ width: 100%;
     border-bottom: 1px solid #ddd;
 }
 /* End Header */
+/* Start Landing Section */
+.landing{
+    background-image: url(../image/pexels-pixabay-355770.jpg);
+    
+}
+/* End Landing Section */
