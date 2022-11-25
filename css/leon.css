@@ -57,7 +57,7 @@ body{
    position: relative; 
 }
 .header .link:hover .icon span:nth-child(2){
-
+width: 100%;
 }
 .header .link .icon{
     width: 30px;
