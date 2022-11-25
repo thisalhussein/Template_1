@@ -127,5 +127,6 @@ width: 100%;
 /* Start Landing Section */
 .landing {
     background-image: url(../images/pexels-pixabay-355770.jpg);
+    background-size: cover;
 }
 /* End Landing Section */
