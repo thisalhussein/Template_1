@@ -118,6 +118,6 @@ width: 100%;
    padding-left: 25px; 
 }
 .header .link ul li:not(last-child) {
-    
+    border-bottom: 1px solid #ddd;
 }
 /* End Header */
