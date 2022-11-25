@@ -100,5 +100,7 @@ width: 100%;
 }
 .header .link ul::before{
     content: "";
+    border-width: 10px;
+    border-style: solid;
 }
 /* End Header */
