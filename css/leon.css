@@ -67,6 +67,9 @@ body{
     margin-bottom: 5px;
 }
 .header .link .icon span:first-child{
+
+}
+.header .link .icon span:nth-child(2){
     
 }
 /* End Header */
