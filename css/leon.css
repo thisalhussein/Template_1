@@ -104,5 +104,6 @@ width: 100%;
     border-style: solid;
     border-color: red green blue black ;
     position: absolute;
+    right: 5px;
 }
 /* End Header */
