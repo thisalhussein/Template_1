@@ -76,5 +76,6 @@ body{
 }
 .header .link .icon span:last-child{
     height: 5px;
+    width: 100%;
 }
 /* End Header */
