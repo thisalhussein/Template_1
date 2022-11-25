@@ -117,4 +117,7 @@ width: 100%;
 .header .link ul li a:hover{
    padding-left: 25px; 
 }
+.header .link ul li:not(last-child) {
+    
+}
 /* End Header */
