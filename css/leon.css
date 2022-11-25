@@ -147,6 +147,7 @@ width: 100%;
     font-weight: bold;
     font-size: 50px;
     color: var(--main-color);
+    text-align: center;
 }
 .landing .intro-text p {
     font-size: 19px;
