@@ -141,13 +141,13 @@ width: 100%;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    text-align: center;
 }
 .landing .intro-text h1 {
     margin: 0;
     font-weight: bold;
     font-size: 50px;
     color: var(--main-color);
-    text-align: center;
 }
 .landing .intro-text p {
     font-size: 19px;
