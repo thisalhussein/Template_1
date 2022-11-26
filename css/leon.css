@@ -316,7 +316,7 @@ width: 100%;
 }
 @media (max-width: 991px) {
     .about .about-content{
-    
+    flex-direction: column;
     }
 }
 .about .about-content .image {
