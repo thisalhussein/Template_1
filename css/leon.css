@@ -255,7 +255,7 @@ width: 100%;
     position: absolute;
     background-color: var(--seconday-color);
     width: 80px;
-    height: 100%;
+    height: calc(100% + 100%);
     top: 0;
     position: absolute;
     right: 0;
