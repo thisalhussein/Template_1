@@ -220,4 +220,7 @@ width: 100%;
     grid-gap: 30px;
     margin-top: 100px;
 }
+.services .services-content .image img {
+    width: 400px;
+}
    /* End Services */
