@@ -317,7 +317,6 @@ width: 100%;
 .about .about-content .image {
     position: relative;
     width: 612px;
-    height: 612px;
 }
 .about .about-content .image::before {
     content: "";
@@ -332,6 +331,6 @@ width: 100%;
     content: "";
 }
 .about .about-content .image img{
-    max-width: 100%;
+    max-width: 75%;
 }
   /* End About */
