@@ -253,6 +253,8 @@ width: 100%;
 .services .services-content .image::before{
     content: '';
     position: absolute;
+    background-color: var(--seconday-color);
+    width: 80px;
 }
 .services .services-content .image img {
     width: 260px;
