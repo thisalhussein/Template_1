@@ -323,6 +323,8 @@ width: 100%;
     content: "";
     position: absolute;
     background-color: red;
+    width: 100px;
+    height: calc(100% + 80px);
 
 }
 .about .about-content .image::after{
