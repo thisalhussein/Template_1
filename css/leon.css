@@ -325,4 +325,7 @@ width: 100%;
 .about .about-content .image::after{
     content: "";
 }
+.about .about-content .image img{
+    max-width: 100%;
+}
   /* End About */
