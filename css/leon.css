@@ -317,6 +317,7 @@ width: 100%;
 @media (max-width: 991px) {
     .about .about-content{
     flex-direction: column;
+    text-align: center;
     }
 }
 .about .about-content .image {
