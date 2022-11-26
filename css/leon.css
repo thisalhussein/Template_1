@@ -61,7 +61,7 @@ body{
 }
 @media (max-width: 767px){
     .special-heading {
-        
+        font-size: 60px;
     }
 }
 /* End Components */
