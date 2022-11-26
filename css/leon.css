@@ -291,6 +291,6 @@ width: 100%;
     max-width: 100%;
 }
 .portfolio .portfolio-content .card .info {
-    
+   padding: 20px; 
 }
   /* End portfolio */
