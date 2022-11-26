@@ -326,6 +326,7 @@ width: 100%;
     height: calc(100% + 80px);
     top: -40px;
     left: -20px;
+    z-index:-1;
 }
 .about .about-content .image::after{
     content: "";
