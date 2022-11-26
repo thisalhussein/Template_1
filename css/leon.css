@@ -63,6 +63,9 @@ body{
     .special-heading {
         font-size: 60px;
     }
+    .special-heading + p {
+
+    }
 }
 /* End Components */
 /* Start Header */
