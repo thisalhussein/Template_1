@@ -235,7 +235,7 @@ width: 100%;
     flex-basis: 60px;
 }
 .services .services-content .srv .text {
-    
+    flex: 1;
 }
 
    /* End Services */
