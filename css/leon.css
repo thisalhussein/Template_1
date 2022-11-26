@@ -310,5 +310,7 @@ width: 100%;
 }
 .about-content {
     margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
 }
   /* End About */
