@@ -268,9 +268,11 @@ width: 100%;
     .image-column{
         display: none;
 }
+}
   /* End Services */
   /* Start portfolio */
   .portfolio {
     padding-bottom: 60px;
+
   }
   /* End portfolio */
