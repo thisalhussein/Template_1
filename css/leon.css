@@ -325,6 +325,7 @@ width: 100%;
     background-color: red;
     width: 100px;
     height: calc(100% + 80px);
+    top: -40px;
 
 }
 .about .about-content .image::after{
