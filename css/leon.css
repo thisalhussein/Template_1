@@ -304,5 +304,7 @@ width: 100%;
   /* End portfolio */
 
   /* Start About */
-  
+.about{
+    padding-top: var(--section-padding);
+}
   /* End About */
