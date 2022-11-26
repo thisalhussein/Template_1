@@ -224,7 +224,7 @@ width: 100%;
     display: flex;
     margin-bottom: 40px;
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .services .services-content .srv {
         flex-direction: column;
         text-align: center;
@@ -236,7 +236,7 @@ width: 100%;
     position: relative;
     margin-left: 115%;
     margin-top: -105%;
-} */
+}  */
 
 
    /* End Services */
