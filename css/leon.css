@@ -331,6 +331,10 @@ width: 100%;
 .about .about-content .image::after{
     content: "";
     position: absolute;
+    width: 120px;
+    height: 300px;
+    
+    
 }
 .about .about-content .image img{
     max-width: 75%;
