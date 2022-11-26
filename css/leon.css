@@ -409,5 +409,6 @@ width: 100%;
 }
 .contact .info .social i {
     margin-left: 10px;
+    color: var(--seconday-color);
 }
   /* End Contact */
