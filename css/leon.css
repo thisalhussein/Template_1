@@ -55,6 +55,7 @@ body{
 }
 .special-heading + p{
     margin: -20px 0 0;
+    font-size: 20px;
 }
 /* End Components */
 /* Start Header */
