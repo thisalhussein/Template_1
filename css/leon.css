@@ -222,5 +222,6 @@ width: 100%;
 }
 .services .services-content .srv{
     display: flex;
+    margin-bottom: 30px;
 }
    /* End Services */
