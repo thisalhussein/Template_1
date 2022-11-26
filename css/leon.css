@@ -315,6 +315,6 @@ width: 100%;
     justify-content: space-between;
 }
 .about .about-content .image {
-    
+    position: relative;
 }
   /* End About */
