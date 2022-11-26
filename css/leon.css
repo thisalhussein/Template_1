@@ -330,6 +330,7 @@ width: 100%;
 }
 .about .about-content .image::after{
     content: "";
+    position: absolute;
 }
 .about .about-content .image img{
     max-width: 75%;
