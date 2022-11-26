@@ -335,6 +335,9 @@ width: 100%;
     height: 300px;
     border-left: 80px solid red;
     border-bottom: 80px solid red;
+    z-index:-1;
+    right: 8px;
+    top: -39px
 }
 .about .about-content .image img{
     max-width: 75%;
