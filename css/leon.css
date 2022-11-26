@@ -321,7 +321,7 @@ width: 100%;
 .about .about-content .image::before {
     content: "";
     position: absolute;
-    background-color: #236c6ede;
+    background-color: #9dd9dbde;
     width: 100px;
     height: calc(100% + 80px);
     top: -40px;
