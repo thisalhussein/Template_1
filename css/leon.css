@@ -62,6 +62,7 @@ body{
 @media (max-width: 767px){
     .special-heading {
         font-size: 60px;
+        margin-bottom: 20px;
     }
     .special-heading + p {
         margin-top: -20px;
