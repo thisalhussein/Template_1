@@ -324,6 +324,11 @@ width: 100%;
     position: relative;
     width: 612px;
 }
+@media (max-width: 1199px){
+    .about .about-content .image {
+    margin: 0 auto 60px;
+    }
+}
 .about .about-content .image::before {
     content: "";
     position: absolute;
