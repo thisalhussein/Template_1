@@ -251,6 +251,7 @@ width: 100%;
 }
 .services .services-content .image::before{
     content: '';
+    position: absolute;
 }
 .services .services-content .image img {
     width: 260px;
