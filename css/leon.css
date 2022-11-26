@@ -231,7 +231,7 @@ width: 100%;
     }
 }
 .services .services-content .srv i {
-    
+    color: var(--main-color);
 }
 
 
