@@ -309,6 +309,6 @@ width: 100%;
     padding-bottom: calc(var(--section-padding) + 60px);
 }
 .about-content {
-    
+    margin-top: 100px;
 }
   /* End About */
