@@ -423,5 +423,6 @@ width: 100%;
     background-color: var(--seconday-color);
     color: white;
     padding: 30px 10px;
+    text-align: center;
  }
  /* End Footer */
