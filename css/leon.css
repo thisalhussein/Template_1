@@ -387,4 +387,8 @@ width: 100%;
     padding-bottom: var(--section-padding);
     text-align: center;  
 }
+.contact .info .label {
+    font-size: 30px;
+    font-weight: 800;
+}
   /* End Contact */
