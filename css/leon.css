@@ -320,9 +320,9 @@ width: 100%;
     height: 612px;
 }
 .about .about-content .image::before {
-
+    content: "";
 }
 .about .about-content .image::after{
-    
+    content: "";
 }
   /* End About */
