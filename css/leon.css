@@ -234,6 +234,8 @@ width: 100%;
     color: var(--main-color);
     flex-basis: 60px;
 }
-
+.services .services-content .srv .text {
+    
+}
 
    /* End Services */
