@@ -247,6 +247,7 @@ width: 100%;
 }
 .services .services-content .srv .image{
     text-align: center;
+    position: relative;
 }
 
    /* End Services */
