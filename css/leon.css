@@ -345,4 +345,8 @@ width: 100%;
 .about .about-content .text {
     flex-basis: 400px;
 }
+@media (max-width: 1199px) {
+    .about .about-content .image{
+        display: none;
+    }
   /* End About */
