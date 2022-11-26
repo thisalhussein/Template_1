@@ -422,5 +422,6 @@ width: 100%;
  .footer{
     background-color: var(--seconday-color);
     color: white;
+    padding: 30px 10px;
  }
  /* End Footer */
