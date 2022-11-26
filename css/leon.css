@@ -54,7 +54,7 @@ body{
     margin: 0;
 }
 .special-heading + p{
-    
+    margin: -20px;
 }
 /* End Components */
 /* Start Header */
