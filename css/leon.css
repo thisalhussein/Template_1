@@ -319,4 +319,10 @@ width: 100%;
     width: 612px;
     height: 612px;
 }
+.about .about-content .image::before {
+
+}
+.about .about-content .image::after{
+    
+}
   /* End About */
