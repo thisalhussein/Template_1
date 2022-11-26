@@ -233,6 +233,7 @@ width: 100%;
 .services .services-content .image img{
     width: 300px;
     margin-left: 100%;
+    position: relative;
 }
 
 
