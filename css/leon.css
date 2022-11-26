@@ -321,6 +321,8 @@ width: 100%;
 }
 .about .about-content .image::before {
     content: "";
+    position: absolute;
+
 }
 .about .about-content .image::after{
     content: "";
