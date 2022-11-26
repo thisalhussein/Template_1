@@ -256,6 +256,8 @@ width: 100%;
     background-color: var(--seconday-color);
     width: 80px;
     height: 100%;
+    top: 0;
+    position: absolute;
 }
 .services .services-content .image img {
     width: 260px;
