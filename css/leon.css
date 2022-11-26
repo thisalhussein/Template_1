@@ -351,7 +351,7 @@ width: 100%;
     }
 }
 .about .about-content .text p:first-of-type {
-
+    font-weight: bold;
 }
 .about .about-content .text hr {
     
