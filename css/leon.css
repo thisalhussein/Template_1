@@ -188,7 +188,7 @@ width: 100%;
 .features {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
 }
 .features .container {
    display: grid; 
@@ -276,6 +276,6 @@ width: 100%;
   .portfolio {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: #f6f6f6;
+    background-color: var(--section-background);
   }
   /* End portfolio */
