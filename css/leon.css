@@ -238,7 +238,7 @@ width: 100%;
     flex: 1;
 }
 .services .services-content .srv h3{
-    margin: 0;
+    margin: 0 0 20px;
 }
 .services .services-content .srv .text p {
 
