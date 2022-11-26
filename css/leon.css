@@ -231,7 +231,8 @@ width: 100%;
     }
 }
 .services .services-content .image img{
-  
+    width: 300px;
 }
+
 
    /* End Services */
