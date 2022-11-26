@@ -53,6 +53,9 @@ body{
     letter-spacing: -3px;
     margin: 0;
 }
+.special-heading + p{
+    
+}
 /* End Components */
 /* Start Header */
 
