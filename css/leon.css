@@ -278,4 +278,9 @@ width: 100%;
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
   }
+  .portfolio .portfolio-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 30px;
+  }
   /* End portfolio */
