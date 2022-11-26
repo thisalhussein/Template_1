@@ -419,5 +419,8 @@ width: 100%;
 }
   /* End Contact */
  /* Start Footer */
- 
+ .footer{
+    background-color: var(--seconday-color);
+    color: white;
+ }
  /* End Footer */
