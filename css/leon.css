@@ -250,7 +250,7 @@ width: 100%;
     position: relative;
 }
 .services .services-content .srv .image::before{
-    
+    content: '';
 }
 
    /* End Services */
