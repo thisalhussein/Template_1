@@ -252,5 +252,7 @@ width: 100%;
 .services .services-content .srv .image::before{
     content: '';
 }
-
+.services .services-content .srv image img {
+    width: 260px;
+}
    /* End Services */
