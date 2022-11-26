@@ -245,14 +245,15 @@ width: 100%;
     font-weight: 300;
     line-height: 1.6;
 }
-.services .services-content .srv .image{
+.services .services-content .image{
     text-align: center;
     position: relative;
 }
-.services .services-content .srv .image::before{
+.services .services-content .image::before{
     content: '';
 }
-.services .services-content .srv image img {
+.services .services-content .image img {
     width: 260px;
 }
+
    /* End Services */
