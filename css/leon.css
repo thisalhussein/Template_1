@@ -350,4 +350,7 @@ width: 100%;
         display: none;
     }
 }
+.about .about-content .text p:first-of-type {
+    
+}
   /* End About */
