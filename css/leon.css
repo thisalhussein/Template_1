@@ -59,6 +59,9 @@ body{
     text-align: center;
     color: #797979;
 }
+@media (max-width: 767px){
+
+}
 /* End Components */
 /* Start Header */
 
