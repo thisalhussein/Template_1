@@ -270,5 +270,7 @@ width: 100%;
 }
   /* End Services */
   /* Start portfolio */
-  
+  .portfolio {
+    padding-bottom: 60px;
+  }
   /* End portfolio */
