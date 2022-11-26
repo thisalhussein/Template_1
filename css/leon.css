@@ -258,6 +258,7 @@ width: 100%;
     height: 100%;
     top: 0;
     position: absolute;
+    right: 0;
 }
 .services .services-content .image img {
     width: 260px;
