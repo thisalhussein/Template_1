@@ -358,6 +358,7 @@ width: 100%;
 .about .about-content .text hr {
     width: 50%;
     display: inline-block;
+    border-color: var(--main-color);
 }
 .about .about-content .text p:last-of-type {
     
