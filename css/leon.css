@@ -224,4 +224,7 @@ width: 100%;
     display: flex;
     margin-bottom: 30px;
 }
+@media (max-width: 767px) {
+ 
+}
    /* End Services */
